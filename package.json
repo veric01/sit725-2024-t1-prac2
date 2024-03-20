@@ -1,0 +1,24 @@
+{
+  "name": "sit725-2024-t1-prac2",
+  "version": "1.0.0",
+  "description": "First NodeJS code that allows to add two numbers on the server using Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veric01/sit725-2024-t1-prac2.git"
+  },
+  "author": "Victor Mutisya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veric01/sit725-2024-t1-prac2/issues"
+  },
+  "homepage": "https://github.com/veric01/sit725-2024-t1-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "save": "^2.9.0"
+  }
+}
